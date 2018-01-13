@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{9E1557B6-CE46-45CA-9B55-0E525687C6F9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Afinador/ViewModels/metronomoViewModel.cs">
+    <Files>
+      <File FileName="Afinador/Views/metronomePage.xaml" Line="4" Column="116" />
+      <File FileName="Afinador/ViewModels/metronomoViewModel.cs" Line="26" Column="110" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Afinador.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F323FBB9-8614-4E77-80AE-E524B199ADBC">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Afinador.iOS>
+  <MonoDevelop.Ide.ItemProperties.Afinador.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>

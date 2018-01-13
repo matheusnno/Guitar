@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Afinador.Views.metronomePage">
+    <StackLayout VerticalOptions="CenterAndExpand">
+        <Slider Maximum="{Binding Maximo}" Minimum="{Binding Minimo}" Value="{Binding SliderValue}" Margin="15,0"/>
+        <Label Text="{Binding Frequency}" HorizontalOptions="CenterAndExpand"/>
+        <Button Text="Start/Stop" Command="{Binding startStopCommand}"/>
+    </StackLayout>
+</ContentPage>
